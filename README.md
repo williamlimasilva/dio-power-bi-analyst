@@ -1,4 +1,4 @@
-# Formação SQL Database Specialist
+# Formação Power BI Analyst
 Repositorio para desenvolvimento das atividades referente ao curso DIO - Formação Power BI Analyst
 
 ## Fundamentos de Análise de Dados e BI
